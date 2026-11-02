@@ -1,0 +1,51 @@
+THEME
+MSME Finance and Compliance
+
+PROBLEM STATEMENT
+3.1 — first dropdown option, beginning “Micro enterprises lose time and pr...”
+Note: The official full problem statement was truncated in the screenshot; verify the entire sentence on the hackathon website.
+
+PROJECT TITLE
+FinSaarthi AI – Intelligent Finance & Compliance Co-Pilot for Micro Enterprises
+
+BRIEF ABOUT YOUR IDEA
+FinSaarthi AI is an intelligent, multilingual finance and compliance co-pilot designed to help Indian micro-enterprises eliminate repetitive paperwork and improve business productivity. It combines smart invoice processing, automated bookkeeping assistance, GST readiness checks, cash-flow forecasting, and financial insights in a single, easy-to-use platform. Through AI-assisted document processing and actionable recommendations, FinSaarthi AI helps business owners spend less time managing financial records and more time serving customers and growing their businesses.
+
+DETAILED EXPLANATION OF THE IDEA
+FinSaarthi AI – From Paperwork to Possibility
+
+Problem: Micro-enterprises frequently rely on paper invoices, manual data entry, spreadsheets, and disconnected financial tools. Business owners spend valuable working hours recording transactions, checking tax documents, tracking payments, and preparing financial reports. These fragmented processes increase administrative effort, create opportunities for errors, and reduce time available for business growth.
+
+Proposed Solution: FinSaarthi AI provides a unified digital finance and compliance assistant that transforms manual financial administration into simpler, guided workflows.
+
+Key Features:
+1. Smart Invoice Studio: Upload invoices, extract available document information, review transactions, and maintain organised digital records.
+2. GST Compliance Hub: Identify incomplete invoice information, track document readiness, and guide users through compliance preparation with human verification.
+3. Cash-Flow Intelligence: Visualise expected receipts and expenses, analyse upcoming financial commitments, and identify possible cash shortages.
+4. Multilingual Financial Assistant: Receive straightforward explanations and business insights in English, Tamil, or Hindi.
+5. Credit Readiness Passport: Organise financial records and supporting documents into a loan-preparation checklist; not a credit score.
+6. Business Intelligence Dashboard: Monitor sales, outstanding payments, expenses, financial trends, and recommended next actions from one interface.
+
+Innovation: Unlike tools focused only on accounting or tax filing, FinSaarthi AI connects document processing, business intelligence, compliance readiness, and financial guidance in one micro-enterprise-focused experience. Its human-in-the-loop approach allows owners to verify important financial information before accepting changes.
+
+Technology Stack: Python, Streamlit, Pandas, Plotly, PDF text extraction, financial rules, and an optional AI language-model integration. The prototype is designed for GitHub-based deployment on Streamlit Community Cloud.
+
+Target Users: Micro retailers, local traders, small service providers, individual entrepreneurs, and their accountants.
+
+Expected Impact: Reduce repetitive administrative work, improve record accuracy, strengthen financial visibility, simplify compliance preparation, and help micro-enterprises make better business decisions.
+
+Prototype: An interactive Streamlit demonstration featuring invoice management, compliance checks, financial analytics, cash-flow simulations, and a business assistant. The prototype uses clearly labelled demonstration data and is intended for validation, not production tax filing.
+
+Future Scope: Improved OCR for photographed invoices, secure integrations with authorised financial services, additional Indian languages, and enhanced predictive analytics.
+
+TEAM NAME
+CODE TITAN
+
+TEAM LEADER
+MURALIDHAR SM
+
+TEAM SIZE
+1 (Solo Participant)
+
+VISION
+Empower every micro-enterprise with the financial intelligence of a larger business, without the complexity or cost.

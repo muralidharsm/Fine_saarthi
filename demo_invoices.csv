@@ -1,0 +1,37 @@
+invoice_id,date,due_date,customer,category,type,amount,tax_amount,gstin,status,notes
+CT-2026-0101,2026-05-21,2026-06-05,Green Valley Retail,Retail,Sale,7800.0,1189.83,33AABCG1234F1Z5,Paid,Synthetic demo invoice
+CT-2026-0102,2026-05-26,2026-06-11,Lakshmi Traders,Wholesale,Sale,12583.0,1919.44,33AAACL5412D1Z7,Unpaid,Synthetic demo invoice
+CT-2026-0103,2026-05-31,2026-06-17,Brightway Services,Services,Sale,17366.0,2649.05,,Paid,Synthetic demo invoice
+CT-2026-0104,2026-06-05,2026-06-23,Vetri Stores,Retail,Sale,22149.0,3378.66,33AAACV4200L1Z3,Paid,Synthetic demo invoice
+CT-2026-0105,2026-06-10,2026-06-29,Sunrise Supplies,Supplies,Purchase,26932.0,4108.27,,Paid,Synthetic demo invoice
+CT-2026-0106,2026-06-15,2026-07-05,Kaveri Supermart,Retail,Sale,31715.0,4837.88,33AAACK9988P1Z2,Paid,Synthetic demo invoice
+CT-2026-0107,2026-06-20,2026-07-11,Nila Packaging,Supplies,Purchase,36498.0,5567.49,,Unpaid,Synthetic demo invoice
+CT-2026-0108,2026-06-25,2026-07-17,Metro Distributors,Wholesale,Purchase,41281.0,6297.1,33AAACM2211C1Z9,Paid,Synthetic demo invoice
+CT-2026-0109,2026-06-30,2026-07-23,Kaveri Supermart,Retail,Sale,46064.0,7026.71,33AAACK9988P1Z2,Paid,Synthetic demo invoice
+CT-2026-0110,2026-07-05,2026-07-29,Nila Packaging,Supplies,Purchase,9847.0,1502.08,,Paid,Synthetic demo invoice
+CT-2026-0111,2026-07-10,2026-08-04,Metro Distributors,Wholesale,Purchase,14630.0,2231.69,33AAACM2211C1Z9,Paid,Synthetic demo invoice
+CT-2026-0112,2026-07-15,2026-08-10,Green Valley Retail,Retail,Sale,19413.0,2961.31,33AABCG1234F1Z5,Unpaid,Synthetic demo invoice
+CT-2026-0113,2026-07-20,2026-08-04,Lakshmi Traders,Wholesale,Sale,24196.0,3690.92,33AAACL5412D1Z7,Paid,Synthetic demo invoice
+CT-2026-0114,2026-07-25,2026-08-10,Brightway Services,Services,Sale,28979.0,4420.53,,Paid,Synthetic demo invoice
+CT-2026-0115,2026-07-30,2026-08-16,Vetri Stores,Retail,Sale,33762.0,5150.14,33AAACV4200L1Z3,Paid,Synthetic demo invoice
+CT-2026-0116,2026-08-04,2026-08-22,Sunrise Supplies,Supplies,Purchase,38545.0,5879.75,33AAACS1400E1Z4,Paid,Synthetic demo invoice
+CT-2026-0117,2026-08-09,2026-08-28,Brightway Services,Services,Sale,43328.0,6609.36,,Unpaid,Synthetic demo invoice
+CT-2026-0118,2026-08-14,2026-09-03,Vetri Stores,Retail,Sale,48111.0,7338.97,33AAACV4200L1Z3,Paid,Synthetic demo invoice
+CT-2026-0119,2026-08-19,2026-09-09,Sunrise Supplies,Supplies,Purchase,11894.0,1814.34,33AAACS1400E1Z4,Paid,Synthetic demo invoice
+CT-2026-0120,2026-08-24,2026-09-15,Kaveri Supermart,Retail,Sale,16677.0,2543.95,33AAACK9988P1Z2,Paid,Synthetic demo invoice
+CT-2026-0121,2026-08-29,2026-09-21,Nila Packaging,Supplies,Purchase,21460.0,0.0,,Paid,Synthetic demo invoice
+CT-2026-0122,2026-09-03,2026-09-27,Metro Distributors,Wholesale,Purchase,26243.0,4003.17,33AAACM2211C1Z9,Unpaid,Synthetic demo invoice
+CT-2026-0123,2026-09-08,2026-10-03,Green Valley Retail,Retail,Sale,31026.0,4732.78,33AABCG1234F1Z5,Paid,Synthetic demo invoice
+CT-2026-0124,2026-09-13,2026-10-09,Lakshmi Traders,Wholesale,Sale,35809.0,5462.39,,Paid,Synthetic demo invoice
+CT-2026-0125,2026-09-18,2026-10-03,Metro Distributors,Wholesale,Purchase,40592.0,6192.0,33AAACM2211C1Z9,Paid,Synthetic demo invoice
+CT-2026-0126,2026-09-23,2026-10-09,Green Valley Retail,Retail,Sale,45375.0,6921.61,33AABCG1234F1Z5,Unpaid,Synthetic demo invoice
+CT-2026-0127,2026-09-28,2026-10-15,Lakshmi Traders,Wholesale,Sale,9158.0,1396.98,33AAACL5412D1Z7,Unpaid,Synthetic demo invoice
+CT-2026-0128,2026-10-03,2026-10-21,Brightway Services,Services,Sale,13941.0,2126.59,,Unpaid,Synthetic demo invoice
+CT-2026-0129,2026-10-08,2026-10-27,Vetri Stores,Retail,Sale,18724.0,2856.2,33AAACV4200L1Z3,Unpaid,Synthetic demo invoice
+CT-2026-0130,2026-10-13,2026-11-07,Sunrise Supplies,Supplies,Purchase,23507.0,3585.81,33AAACS1400E1Z4,Unpaid,Synthetic demo invoice
+CT-2026-0131,2026-10-18,2026-11-11,Kaveri Supermart,Retail,Sale,28290.0,4315.42,33AAACK9988P1Z2,Unpaid,Synthetic demo invoice
+CT-2026-0132,2026-10-23,2026-11-15,Nila Packaging,Supplies,Purchase,33073.0,5045.03,,Unpaid,Synthetic demo invoice
+CT-2026-0133,2026-10-28,2026-11-19,Sunrise Supplies,Supplies,Purchase,37856.0,5774.64,33AAACS1400E1Z4,Unpaid,Synthetic demo invoice
+CT-2026-0134,2026-11-02,2026-11-23,Kaveri Supermart,Retail,Sale,42639.0,6504.25,33AAACK9988P1Z2,Unpaid,Synthetic demo invoice
+CT-2026-0135,2026-11-07,2026-11-27,Nila Packaging,Supplies,Purchase,47422.0,7233.86,,Unpaid,Synthetic demo invoice
+CT-2026-0136,2026-11-12,2026-12-01,Metro Distributors,Wholesale,Purchase,11205.0,1709.24,33AAACM2211C1Z9,Unpaid,Synthetic demo invoice
